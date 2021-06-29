@@ -1,0 +1,15 @@
+.Profile{
+    height: 250px;
+    border-radius: 50%;
+}
+.icons{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.top{
+    margin-bottom: 10px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
